@@ -1,0 +1,7 @@
+.contenedor-reloj {
+  width: 98%;
+  height: 180px;
+  background-color: rgb(12, 11, 11);
+  border-radius: 10px;
+  margin: 90px auto;
+}
