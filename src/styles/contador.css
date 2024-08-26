@@ -1,0 +1,12 @@
+.contenedor-contador {
+  width: 98%;
+  height: 200px;
+  margin: 10px auto;
+
+  border-radius: 10px;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

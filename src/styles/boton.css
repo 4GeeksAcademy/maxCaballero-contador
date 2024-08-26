@@ -1,0 +1,8 @@
+.boton {
+  width: 160px;
+  height: 180px;
+  margin: 20px;
+  border: 3px solid rgb(39, 37, 37);
+  border-radius: 20px;
+  background-color: rgb(8, 8, 8);
+}

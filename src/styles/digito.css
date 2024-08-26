@@ -1,0 +1,8 @@
+.digito {
+  width: 130px;
+  height: 180px;
+  margin-inline: 5px;
+  border: 3px solid rgb(39, 37, 37);
+  border-radius: 20px;
+  background-color: rgb(8, 8, 8);
+}
